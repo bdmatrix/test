@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 220">
+  <title>CG-LOGO</title>
+  <g id="lined">
+    <g>
+      <path d="M104.29,60,33.58,130.71l70.71,70.71V110.71a25,25,0,1,1,15,45" fill="none" stroke="#47a2da" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <polyline points="124.29 80.71 174.29 80.71 174.29 180.71" fill="none" stroke="#47a2da" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <g>
+      <line x1="325.71" y1="60" x2="375.71" y2="10" fill="none" stroke="#47a2da" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <path d="M305,60v45.71a25,25,0,0,0,25,25h45.71L305,201.42l-70.71-70.71" fill="none" stroke="#47a2da" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+    <path d="M535.71,60h-50a25,25,0,0,0,0,50,50,50,0,1,0,50,50Z" fill="none" stroke="#47a2da" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    <g>
+      <polygon points="666.42 60 595.71 130.71 666.42 201.42 666.42 60" fill="none" stroke="#47a2da" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+      <circle cx="608.21" cy="188.92" r="12.5" fill="none" stroke="#47a2da" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+    </g>
+  </g>
+</svg>
